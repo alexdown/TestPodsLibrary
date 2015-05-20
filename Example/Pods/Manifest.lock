@@ -1,0 +1,14 @@
+PODS:
+  - TestPodsLibrary (0.1.0)
+
+DEPENDENCIES:
+  - TestPodsLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  TestPodsLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestPodsLibrary: 8462858710355e3e83899de0ed5940e8f4267316
+
+COCOAPODS: 0.37.1
