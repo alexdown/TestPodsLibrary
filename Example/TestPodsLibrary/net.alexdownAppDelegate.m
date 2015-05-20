@@ -8,7 +8,7 @@
 
 #import "net.alexdownAppDelegate.h"
 
-@implementation net.alexdownAppDelegate
+@implementation net_alexdownAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {

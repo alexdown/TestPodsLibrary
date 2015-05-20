@@ -21,13 +21,13 @@ Pod::Spec.new do |s|
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "alexdown" => "alxdwn@yahoo.it" }
-  s.source           = { :git => "https://alexdown@bitbucket.org/alexdown/pods-testlibrary.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/alexdown/TestPodsLibrary.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/alxdwn'
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
 
-  s.source_files = 'Pod/Classes/**/*'
+  s.source_files = 'Example/TestPodsLibrary/**/*'
   s.resource_bundles = {
     'TestPodsLibrary' => ['Pod/Assets/*.png']
   }

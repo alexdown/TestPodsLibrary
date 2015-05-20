@@ -8,11 +8,11 @@
 
 #import "net.alexdownViewController.h"
 
-@interface net.alexdownViewController ()
+@interface net_alexdownViewController ()
 
 @end
 
-@implementation net.alexdownViewController
+@implementation net_alexdownViewController
 
 - (void)viewDidLoad
 {

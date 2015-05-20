@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface net.alexdownViewController : UIViewController
+@interface net_alexdownViewController : UIViewController
 
 @end

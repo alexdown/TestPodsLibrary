@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface net.alexdownAppDelegate : UIResponder <UIApplicationDelegate>
+@interface net_alexdownAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
 
