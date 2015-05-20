@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "TestPodsLibrary"
-  s.version          = "0.1.0"
+  s.version          = "0.1.2"
   s.summary          = "A short description of TestPodsLibrary."
   s.description      = <<-DESC
                        An optional longer description of TestPodsLibrary
